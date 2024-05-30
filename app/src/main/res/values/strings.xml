@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Top App Bar</string>
+
+
+    <string name="home">HOME</string>
+    <string name="catalog">CATALOG</string>
+    <string name="delivery">DELIVERY</string>
+    <string name="contacts">CONTACTS</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
